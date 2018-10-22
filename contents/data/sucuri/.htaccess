@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<base href="/" />
+
     <title>i-MSCP internet - Multi Server Control Panel - Error 403</title>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
     <meta name='robots' content='nofollow, noindex'/>
